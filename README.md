@@ -1,3 +1,3 @@
-# Rupak's Collected Codes
+# Codes
 
 Custom edited codes to customize blogs and websites.
